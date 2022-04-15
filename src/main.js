@@ -46,7 +46,7 @@ let string1 = `/* 你好，我的名字是孙梦珂
     box-shadow: 0 0 1px 2px rgba(0, 0, 0, 0.2);
     border:none;
 }
-/* 阴阳形成八卦，级一黑一白
+/* 阴阳形成八卦，即一黑一白
 */
 #div1{
     background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 50%, rgba(0,0,0,1) 100%);
